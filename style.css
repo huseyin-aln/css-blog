@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div.blog {
+    margin: 4rem;
+    padding: 2rem;
+    width: 90vw;
+    height: 40vh;
+    border: 3px solid blue;
+}
+
+div.image {
+    margin-top: 2rem;
+    width: 30%;
+    height: 80%;
+    float: left;
+    margin-right: 2rem;
+    vertical-align: middle;
+    background-color: red;
+}
+
+/* img {
+    margin-top: 2rem;
+    width: 30%;
+    height: 80%;
+    float: left;
+    margin-right: 2rem;
+    vertical-align: middle;
+} */
+
+h1 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
